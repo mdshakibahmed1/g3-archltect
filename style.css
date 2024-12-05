@@ -181,6 +181,15 @@ main{
     width: 165px;
 }
 
+.footer-cotainer > h3{
+   padding-top: 25px;
+   padding-left: 40%;
+   background:#FFF4E7 ;
+   width: 100%px;
+   height: 60px;
+
+   
+}
 
 
 @media screen and (max-width: 576px) {
