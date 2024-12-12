@@ -180,17 +180,19 @@ main{
 .sponsors-img-container img {
     width: 165px;
 }
+.footer-cotainer{
+    padding-left: 110px;
+    padding-right: 110px;
+  
 
+}
 .footer-cotainer > h3{
    padding-top: 25px;
-   padding-left: 40%;
+  
    background:#FFF4E7 ;
-   width: 100%px;
    height: 60px;
-
-   
+   text-align: center;
 }
-
 
 @media screen and (max-width: 576px) {
     header{
